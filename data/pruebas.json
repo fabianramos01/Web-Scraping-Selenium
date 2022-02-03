@@ -1,0 +1,16 @@
+{
+	"procesos": {
+		"proceso": [
+			{
+				"NombreDepartamento": "BOGOTA",
+				"NombreCiudad": "BOGOTA, D.C. 11001",
+				"NombreCorporacion": "CORTE SUPREMA DE JUSTICIA 02",
+				"NombreEspecialidad": "CORTE SUPREMA DE JUSTICIA - SALA DE CASACION LABORAL 05",
+				"NumProceso": "52001310500220100005601",
+				"FechaInicio": "1/09/2020",
+				"FechaFin": "25/09/2020",
+				"Despacho": "corte suprema de justicia - sala laboral 000"
+			}
+		]
+	}
+}
